@@ -1,9 +1,9 @@
-# Attribution List
+# attribution List
 
 Proper attribution should be given for all assets (e.g., art, sound, music, etc.) that is not
 authored by members of your project team.
 
-## Assets
+## assets
 
 * bgimg
   - `resources/bgimg.jpg`
