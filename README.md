@@ -13,7 +13,10 @@
 </div>
 
 ## usage
-player travels using arrow keys to gain points. If player travels through the boundaries they appear from the opposing end. player dies if worm collides with itself. when player dies, game resets. Score resets upon death.
+player travels using arrow keys to gain points.
+
+ #### rules
+ ><i>If player travels through the boundaries they appear from the opposing end. player dies if worm collides with itself. when player dies, game resets. score resets upon death.</i>
 
 ## installation
 download contents:
