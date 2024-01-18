@@ -1,5 +1,7 @@
 <div align="center">
+  
 ![bullwormtxt](https://github.com/donbentley/bullworm/assets/71290621/cf2b1713-6ac9-4c3a-a573-50e8e828f388)
+
 javafx clone of classic snake game with improved graphics.
 </div>
 
