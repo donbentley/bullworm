@@ -3,6 +3,7 @@
 >javafx clone of classic snake game with improved graphics.
 
 ## demo
+![bullworm](https://github.com/donbentley/bullworm/assets/71290621/d9275fc7-8cbd-4b0c-9158-551d6f0dec17)
 
 ## installation
 
