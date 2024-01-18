@@ -34,20 +34,4 @@ $ ./compile.sh
 
 ## retrospect
 
-><i>If i could start from scratch, I would try to reskin food sprite to have a more complex icon, like a ruby. I would also like to add more modes where you can play at higher speeds, add music and possibly implement a cool start/death screen.<i>
-
-## attribution
-
-### assets
-
-* Idle Cat
-  - `resources/sprites/cat_idle.gif`
-  - dogchicken. 2012. "Cat Fighter Sprite Sheet"
-  - https://opengameart.org/content/cat-fighter-sprite-sheet
-  - CC-BY 3.0
-
-* bgimg
-  - `resources/bgimg.jpg`
-  - RyanKamos. 2018. "Town Map"
-  - https://www.reddit.com/r/PixelArt/comments/9245lc/jfs_town_map_by_ryankamos/
-  - CC0, Public Domain
+><i>If i could start from scratch, I would try to reskin food sprite to have a more complex icon, like a ruby. I would also like to add more modes where you can play at higher speeds, add music and possibly implement a cool start/death screen.
