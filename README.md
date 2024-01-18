@@ -12,20 +12,27 @@ javafx clone of classic snake game with improved graphics.
 
 </div>
 
-## clone
+## usage
+
+
+
+## installation
 download contents:
 ```
 $ git clone git@github.com:donbentley/bullworm.git
 ```
 
 ## run
-
+change into program directory:
+```
+$ cd /bullworm
+```
 compile and run:
 ```
 $ ./compile.sh
 ```
 
-## retrospect
+### retrospect
 
 ><i>If i could start from scratch, I would try to reskin food to have a more interesting >sprite like a ruby. I would also add more modes where you can play at higher speeds and ?>implement a cool start/death screen.<i>
 
