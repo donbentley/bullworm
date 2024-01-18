@@ -2,7 +2,7 @@
   
 ![bullwormtxt](https://github.com/donbentley/bullworm/assets/71290621/cf2b1713-6ac9-4c3a-a573-50e8e828f388)
 
-javafx clone of classic snake game with improved graphics.
+javafx gui clone of classic snake game with alternative  graphics.
 </div>
 
 ## demo
@@ -13,7 +13,7 @@ javafx clone of classic snake game with improved graphics.
 </div>
 
 ## usage
-
+player travels using arrow keys to gain points. If player travels through the boundaries they appear from the opposing end. player dies if worm collides with itself. when player dies, game resets. Score resets upon death.
 
 
 ## installation
@@ -32,7 +32,7 @@ compile and run:
 $ ./compile.sh
 ```
 
-### retrospect
+## retrospect
 
-><i>If i could start from scratch, I would try to reskin food to have a more interesting >sprite like a ruby. I would also add more modes where you can play at higher speeds and ?>implement a cool start/death screen.<i>
+><i>If i could start from scratch, I would try to reskin food sprite to have a more complex icon, like a ruby. I would also like to add more modes where you can play at higher speeds, add music and possibly implement a cool start/death screen.<i>
 
