@@ -10,7 +10,7 @@
 
   <name>cs1302-omega</name>
   <url>${cs1302.webwork.url}</url>
-  <description>final project for CSCI 1302.</description>
+  <description>cs1302-omega is a final project for CSCI 1302.</description>
   <inceptionYear>2021</inceptionYear>
 
   <scm>
